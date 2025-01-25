@@ -11,7 +11,7 @@ Hello and welcome! I'm a passionate Data Scientist and Machine Learning Engineer
 
 ## Connect with Me
 
-- **LinkedIn**: [www.linkedin.com/in/christian-janiake](www.linkedin.com/in/christian-janiake)
+- **LinkedIn**: [www.linkedin.com/in/christian-janiake](http://www.linkedin.com/in/christian-janiake)
 - **Email**: [cjaniake@gmail.com](mailto:cjaniake@gmail.com)
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out!
